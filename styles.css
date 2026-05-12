@@ -1,0 +1,135 @@
+:root {
+  --cv-blue: #4273b5;
+  --cv-blue-dark: #25528f;
+  --cv-text: #202124;
+  --cv-muted: #555f6b;
+  --cv-rule: #e5e8ee;
+  --cv-max: 1120px;
+}
+
+body {
+  background: #fff;
+  color: var(--cv-text);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.55;
+}
+
+a {
+  color: var(--cv-blue);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--cv-blue-dark);
+  text-decoration: underline;
+}
+
+.navbar {
+  min-height: 50px;
+  background: #fff !important;
+  border-bottom: 1px solid var(--cv-rule);
+  box-shadow: none;
+}
+
+.navbar-brand {
+  color: var(--cv-blue) !important;
+  font-size: 1.55rem;
+  font-weight: 500;
+}
+
+.navbar-nav .nav-link {
+  color: var(--cv-blue) !important;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--cv-blue-dark) !important;
+}
+
+.quarto-title-block {
+  display: none;
+}
+
+.page-columns .content,
+main.content {
+  max-width: var(--cv-max);
+  margin: 0 auto;
+  padding: 0 24px 64px;
+}
+
+.front-figure {
+  display: block;
+  width: 100vw;
+  max-width: none;
+  height: auto;
+  margin: 0 calc(50% - 50vw) 34px;
+  border-bottom: 1px solid var(--cv-rule);
+}
+
+.home-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(320px, 0.85fr);
+  gap: 70px;
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+h1, h2, h3 {
+  color: var(--cv-text);
+  font-weight: 500;
+  letter-spacing: 0;
+}
+
+h2 {
+  margin-top: 2rem;
+  font-size: 1.28rem;
+}
+
+h3 {
+  margin-top: 0;
+  font-size: 1.18rem;
+}
+
+p, li {
+  color: var(--cv-text);
+}
+
+.news p,
+.intro p {
+  margin-bottom: 1rem;
+}
+
+.news {
+  color: var(--cv-muted);
+}
+
+.research-theme {
+  margin: 1.4rem 0 2rem;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid var(--cv-rule);
+}
+
+footer.footer {
+  border-top: 1px solid var(--cv-rule);
+  color: var(--cv-muted);
+  font-size: 0.9rem;
+}
+
+@media (max-width: 780px) {
+  .page-columns .content,
+  main.content {
+    padding: 0 18px 48px;
+  }
+
+  .home-grid {
+    grid-template-columns: 1fr;
+    gap: 24px;
+  }
+
+  .navbar-brand {
+    font-size: 1.28rem;
+  }
+}

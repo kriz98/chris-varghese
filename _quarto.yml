@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Chris Varghese"
+  navbar:
+    background: white
+    foreground: "#4273b5"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Google Scholar"
+        href: "https://scholar.google.com/citations?user=rsVXjrMAAAAJ&hl=en"
+  page-footer:
+    left: "© 2026 Chris Varghese"
+    right:
+      - text: "Google Scholar"
+        href: "https://scholar.google.com/citations?user=rsVXjrMAAAAJ&hl=en"
+      - text: "LinkedIn"
+        href: "https://www.linkedin.com/in/chris-varghese-3b499912a/"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+    smooth-scroll: true

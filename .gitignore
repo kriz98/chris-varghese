@@ -1,0 +1,9 @@
+.Rhistory
+.quarto/
+_site/
+*.tex
+*_files/
+.DS_Store
+
+/.quarto/
+**/*.quarto_ipynb

@@ -1,0 +1,25 @@
+---
+title: "Research"
+---
+
+This page is set up to organize publications by research theme. Add papers under the themes below as you refine the public version of the site.
+
+## Surgical AI and Prediction Models
+
+- Selected publications and projects on foundation models, surgical risk prediction, discharge prediction, computer vision, and digital biomarkers.
+
+## Perioperative Outcomes and Recovery
+
+- Selected publications and projects on postoperative deterioration, recovery, failure to rescue, perioperative systems, and collaborative surgical audit.
+
+## Gastrointestinal Physiology and Motility
+
+- Selected publications and projects on Gastric Alimetry, body surface gastric mapping, gastroduodenal disorders, and pelvic floor physiology.
+
+## Pancreas, Colorectal, and HPB Surgery
+
+- Selected publications and projects on pancreas cancer, pancreatic surgery, colorectal outcomes, acute pancreatitis, and HPB research.
+
+## Collaborative Research
+
+- Selected publications and projects from STRATA, TASMAN, EuroSurg, COVIDSurg/GlobalSurg, and other collaborative research networks.

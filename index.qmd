@@ -1,0 +1,19 @@
+---
+title: "Chris Varghese"
+---
+
+![](assets/front-figure.svg){.front-figure fig-alt="Blue academic illustration of a hospital campus with data and AI motifs"}
+
+::: {.home-grid}
+::: {.intro}
+### Chris Varghese
+
+I am a clinician-scientist and data scientist working across surgery, artificial intelligence, perioperative outcomes, and digital biomarkers. My work focuses on building practical data-driven tools for surgical care, with interests spanning surgical AI, postoperative monitoring, gastrointestinal physiology, and collaborative clinical research.
+:::
+
+::: {.news}
+### Current focus
+
+Surgical AI, risk prediction, postoperative recovery, pancreas cancer detection, and non-invasive biomarkers of gastric function.
+:::
+:::
