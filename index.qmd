@@ -5,7 +5,7 @@ title: "Chris Varghese"
 ![](assets/cover_2.png){.front-figure fig-alt="Blue academic illustration of a campus with data science and AI motifs"}
 
 ::: {.intro}
-I am a doctoral candidate at the University of Auckland, aspiring GI surgeon, and data scientist at Mayo Clinic. My interests include improving [surgical recovery](http://srslab.auckland.ac.nz/), [translational AI](https://www.mayo.edu/research/labs/surgical-artificial-intelligence-innovation/overview), and [GI physiology](https://www.alimetry.com/clinical-evidence-row).
+I am a doctoral candidate at the University of Auckland, data scientist at Mayo Clinic, and aspiring GI surgeon. My research interests include [surgical recovery](http://srslab.auckland.ac.nz/), [translational AI](https://www.mayo.edu/research/labs/surgical-artificial-intelligence-innovation/overview), and [GI physiology](https://www.alimetry.com/clinical-evidence-row). 
 :::
 
 
