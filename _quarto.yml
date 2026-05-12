@@ -10,9 +10,9 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Research"
+      - text: "Research Themes"
         href: research.qmd
-      - text: "Google Scholar"
+      - text: "Publications"
         href: "https://scholar.google.com/citations?user=rsVXjrMAAAAJ&hl=en"
   page-footer:
     left: "© 2026 Chris Varghese"
