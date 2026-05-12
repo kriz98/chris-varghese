@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-Here is a selection of works across several research themes. An extensive list can be found in the 'Publications' tab. 
+Here is a selection of works across several research themes. An comprehensive list can be found on my [Google Scholar](https://scholar.google.com/citations?user=rsVXjrMAAAAJ&hl=en) page. 
 
 ## AI in Surgery
 
@@ -43,7 +43,6 @@ Varghese C, Peters L, Gaborit L et al., on behalf of the TASMAN Collaborative.
 McLean KA, Knight SR, Diehl TM, Varghese C, Ng N, Potter MA, Zafar SN, Bouamrane MM, Harrison EM.
 [Readiness for implementation of novel digital health interventions for postoperative monitoring](https://pubmed.ncbi.nlm.nih.gov/37100544/).
 *Lancet Digital Health*.
-*npj Digital Medicine*.
 [![](assets/paper.svg){.pub-icon fig-alt="Paper link"}](https://www.thelancet.com/action/showPdf?pii=S2589-7500%2823%2900026-2)
 :::
 
