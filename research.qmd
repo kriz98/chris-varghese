@@ -1,5 +1,5 @@
 ---
-title: "Research Themes"
+title: "Research"
 ---
 
 This page is set up to organize publications by research theme. Add papers under the themes below as you refine the public version of the site.

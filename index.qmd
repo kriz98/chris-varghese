@@ -2,18 +2,12 @@
 title: "Chris Varghese"
 ---
 
-![](assets/front-figure.svg){.front-figure fig-alt="Blue academic illustration of a hospital campus with data and AI motifs"}
+![](assets/cover_3.png){.front-figure fig-alt="Blue academic illustration of a campus with data science and AI motifs"}
 
-::: {.home-grid}
 ::: {.intro}
 ### Chris Varghese
 
-I am a clinician-scientist and data scientist working across surgery, artificial intelligence, perioperative outcomes, and digital biomarkers. My work focuses on building practical data-driven tools for surgical care, with interests spanning surgical AI, postoperative monitoring, gastrointestinal physiology, and collaborative clinical research.
+I am a PhD candidate at the University of Auckland, aspiring GI surgeon, and data scientist at Mayo Clinic. My interests include improving [surgical recovery](http://srslab.auckland.ac.nz/), translational [AI](https://www.mayo.edu/research/labs/surgical-artificial-intelligence-innovation/overview), and [GI physiology](https://www.alimetry.com/clinical-evidence-row).
 :::
 
-::: {.news}
-### Current focus
 
-Surgical AI, risk prediction, postoperative recovery, pancreas cancer detection, and non-invasive biomarkers of gastric function.
-:::
-:::

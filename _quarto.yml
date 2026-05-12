@@ -7,12 +7,12 @@ website:
   navbar:
     background: white
     foreground: "#4273b5"
-    left:
+    right:
       - text: "Home"
         href: index.qmd
-      - text: "Research Themes"
+      - text: "Research"
         href: research.qmd
-      - text: "Publications"
+      - text: "Scholar"
         href: "https://scholar.google.com/citations?user=rsVXjrMAAAAJ&hl=en"
   page-footer:
     left: "© 2026 Chris Varghese"
