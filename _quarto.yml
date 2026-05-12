@@ -14,8 +14,10 @@ website:
         href: research.qmd
       - text: "Publications"
         href: "https://scholar.google.com/citations?user=rsVXjrMAAAAJ&hl=en"
+        target: "_blank"
       - text: "Lab"
         href: "http://srslab.auckland.ac.nz/"
+        target: "_blank"
   page-footer:
     center: "© 2026 Chris Varghese"
 
