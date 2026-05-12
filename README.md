@@ -6,7 +6,7 @@ Small Quarto academic website with:
 - `research.qmd` — research themes for organizing publications
 - `_quarto.yml` — site navigation, including an external Google Scholar tab
 - `styles.css` — white academic styling with the blue motif `#4273b5`
-- `assets/cover_3.png` — homepage cover image
+- `assets/auckland_mayo_vector.svg` — vector homepage cover image
 
 ## Local preview in Positron
 

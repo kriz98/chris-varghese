@@ -2,7 +2,7 @@
 title: "Chris Varghese"
 ---
 
-![](assets/cover_3.png){.front-figure fig-alt="Blue academic illustration of a campus with data science and AI motifs"}
+![](assets/cover_2.png){.front-figure fig-alt="Blue academic illustration of a campus with data science and AI motifs"}
 
 ::: {.intro}
 ### Chris Varghese
