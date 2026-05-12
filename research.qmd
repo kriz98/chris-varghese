@@ -2,24 +2,111 @@
 title: "Research"
 ---
 
-This page is set up to organize publications by research theme. Add papers under the themes below as you refine the public version of the site.
+Here is a selection of works across several research themes. An extensive list can be found in the 'Publications' tab. 
 
-## Surgical AI and Prediction Models
+## AI in Surgery
 
-- Selected publications and projects on foundation models, surgical risk prediction, discharge prediction, computer vision, and digital biomarkers.
+::: {.paper-list}
+::: {.paper}
+Varghese C, Harrison EM, O'Grady G, Topol EJ.
+[Artificial Intelligence in Surgery](https://rdcu.be/dHL7g).
+*Nature Medicine*.
+[![](assets/paper.svg){.pub-icon fig-alt="Paper link"}](https://rdcu.be/dHL7g)
+:::
 
-## Perioperative Outcomes and Recovery
+::: {.paper}
+Varghese C, Habermann EB, Hanson K, Choudhary A, Salehinejad H, Thiels C.
+[Tabular foundation models as a new portable standard in local surgical risk prediction](https://pubmed.ncbi.nlm.nih.gov/41666517/).
+*Surgery*.
+:::
 
-- Selected publications and projects on postoperative deterioration, recovery, failure to rescue, perioperative systems, and collaborative surgical audit.
+::: {.paper}
+Varghese C, Choudhary A, Starlinger P, Kendrick M, Smoot R, Warner SG, Truty M, Habermann EB, Salehinejad H, Thiels CA.
+[Dynamic prediction of early discharge after major pancreatic surgery](https://pubmed.ncbi.nlm.nih.gov/41667369/).
+*Surgery*.
+:::
 
-## Gastrointestinal Physiology and Motility
+::: {.paper}
+Varghese C, Peters L, Gaborit L et al., on behalf of the TASMAN Collaborative. 
+[Predicting opioid consumption after surgical discharge: a multinational derivation and validation study using a foundation model](https://www.nature.com/articles/s41746-025-01798-6).
+*npj Digital Medicine*.
+[![](assets/paper.svg){.pub-icon fig-alt="Paper link"}](https://www.nature.com/articles/s41746-025-01798-6.pdf)
+[![](assets/github.svg){.pub-icon fig-alt="GitHub repository"}](https://github.com/kriz98/operas)
+:::
 
-- Selected publications and projects on Gastric Alimetry, body surface gastric mapping, gastroduodenal disorders, and pelvic floor physiology.
+:::
 
-## Pancreas, Colorectal, and HPB Surgery
+## Surgical Recovery
 
-- Selected publications and projects on pancreas cancer, pancreatic surgery, colorectal outcomes, acute pancreatitis, and HPB research.
+::: {.paper-list}
+::: {.paper}
+McLean KA, Knight SR, Diehl TM, Varghese C, Ng N, Potter MA, Zafar SN, Bouamrane MM, Harrison EM.
+[Readiness for implementation of novel digital health interventions for postoperative monitoring](https://pubmed.ncbi.nlm.nih.gov/37100544/).
+*Lancet Digital Health*.
+*npj Digital Medicine*.
+[![](assets/paper.svg){.pub-icon fig-alt="Paper link"}](https://www.thelancet.com/action/showPdf?pii=S2589-7500%2823%2900026-2)
+:::
 
-## Collaborative Research
+::: {.paper}
+Dawes AJ, Lin AY, Varghese C, Russel MM, Lin AY.
+["Mobile health technology for remote home monitoring after surgery: a meta-analysis](https://pubmed.ncbi.nlm.nih.gov/34661649/).
+*BJS*.
+[![](assets/paper.svg){.pub-icon fig-alt="Paper link"}](https://academic.oup.com/bjs/article-pdf/108/11/1304/50744518/znab323.pdf)
 
-- Selected publications and projects from STRATA, TASMAN, EuroSurg, COVIDSurg/GlobalSurg, and other collaborative research networks.
+:::
+
+::: {.paper}
+Wells C, Varghese C, Boyle L, McGuinness MJ, Keane C, O'Grady G, Gurney J, Koea J, Harmston C, Bissett IP.
+["Failure to Rescue" following colorectal cancer resection](https://scholar.google.com/scholar?q=Failure+to+Rescue+following+Colorectal+Cancer+Resection+Variation+and+Improvements+in+a+National+Study).
+*Annals of Surgery*.
+:::
+
+:::
+
+## Translational GI Physiology 
+
+::: {.paper-list}
+::: {.paper}
+Varghese C, Schamberg G, Calder S, Waite S, Carson D, Foong D, Wang W, Ho V, Woodhead J, Daker C, Xu W, Du P, Abell T, Parkman HP, Tack J, Andrews CA, O'Grady G, Gharibans G.
+[Normative values for body surface gastric mapping evaluations of gastric motility using Gastric Alimetry](https://pubmed.ncbi.nlm.nih.gov/36534985/).
+*American Journal of Gastroenterology*.
+:::
+
+::: {.paper}
+Varghese C, Pasricha PJ, Abell T, Parkman HP, Andrews CN, Kesthelyi D, Gharibans AA, Farrugia G, O'Grady G.
+[Spectrum of interstitial cell of Cajal deficits in chronic gastroduodenal disorders](https://pubmed.ncbi.nlm.nih.gov/40658171/).
+*American Journal of Gastroenterology*.
+:::
+
+::: {.paper}
+Gharibans AA, Calder S, Varghese C, Waite S, Schamberg G, Daker C, Du P, Alighaleh S, Carson D, Woodhead J, Farrugia G, Windsor JA, Andrews CN, O'Grady G.
+[Gastric dysfunction in patients with chronic nausea and vomiting syndromes defined by a noninvasive gastric mapping device](https://pubmed.ncbi.nlm.nih.gov/36130019/).
+*Science Translational Medicine*.
+[![](assets/paper.svg){.pub-icon fig-alt="Paper link"}](https://pmc.ncbi.nlm.nih.gov/articles/PMC10042458/)
+:::
+:::
+
+## Student and Trainee-Led Collaboratives
+
+::: {.paper-list}
+::: {.paper}
+TASMAN Collaborative.
+[Predicting opioid consumption after surgical discharge](https://pubmed.ncbi.nlm.nih.gov/38721718/).
+*Anaesthesia*.
+[![](assets/paper.svg){.pub-icon fig-alt="Paper link"}](https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.16297)
+:::
+
+::: {.paper}
+STRATA Collaborative.
+[Variation in the practice of cholecystectomy for benign biliary disease in Aotearoa New Zealand](https://pubmed.ncbi.nlm.nih.gov/37198069/).
+*HPB*.
+[![](assets/paper.svg){.pub-icon fig-alt="Paper link"}](https://www.hpbonline.org/action/showPdf?pii=S1365-182X%2823%2900128-4)
+
+:::
+
+::: {.paper}
+EuroSurg and STARSurg Collaborative.
+[Global Use and Outcomes of Endoscopic Stenting in Acute Malignant Left-Sided Colonic Obstruction: A Secondary Analysis of APOLLO, An International, Prospective Cohort Study](https://pubmed.ncbi.nlm.nih.gov/41070782/).
+*Diseases of the Colon and Rectum*.
+:::
+:::

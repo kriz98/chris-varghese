@@ -20,7 +20,7 @@ body {
 
 a {
   color: var(--cv-blue-dark);
-  font-weight: 600;
+  font-weight: 500;
   text-decoration: none;
 }
 
@@ -73,8 +73,8 @@ main.content {
   display: block;
   width: 100vw;
   max-width: none;
-  height: min(52vw, 560px);
-  object-fit: cover;
+  height: auto;
+  object-fit: contain;
   object-position: center center;
   margin: 0 calc(50% - 50vw) 46px;
   border-bottom: 1px solid var(--cv-rule);
@@ -117,6 +117,11 @@ p, li {
   margin-bottom: 1rem;
 }
 
+.intro a {
+  color: var(--cv-blue);
+  font-weight: 400;
+}
+
 .intro p:first-of-type {
   font-size: 1.05rem;
 }
@@ -131,10 +136,64 @@ p, li {
   border-bottom: 1px solid var(--cv-rule);
 }
 
+.paper-list {
+  margin: 0.4rem 0 2.1rem;
+}
+
+.paper {
+  margin: 0 0 1.05rem;
+  color: var(--cv-text);
+  font-size: 1.12rem;
+  line-height: 1.62;
+}
+
+.paper a {
+  color: var(--cv-blue);
+  font-weight: 400;
+}
+
+.paper em {
+  color: var(--cv-text);
+}
+
+.pub-icon {
+  width: 22px;
+  height: 22px;
+  margin-left: 4px;
+  vertical-align: -4px;
+}
+
 footer.footer {
   border-top: 1px solid var(--cv-rule);
   color: var(--cv-muted);
   font-size: 0.9rem;
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 14px 30px;
+  max-width: 960px;
+  margin: 60px auto 0;
+  padding-top: 26px;
+  border-top: 1px solid var(--cv-rule);
+}
+
+.footer-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--cv-blue-dark);
+  font-weight: 400;
+  line-height: 1;
+}
+
+.footer-icon {
+  width: 20px;
+  height: 20px;
+  flex: 0 0 auto;
+  vertical-align: -4px;
 }
 
 @media (max-width: 780px) {
@@ -164,7 +223,7 @@ footer.footer {
   }
 
   .front-figure {
-    height: 44vh;
-    min-height: 260px;
+    height: auto;
+    min-height: 0;
   }
 }
