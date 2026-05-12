@@ -22,6 +22,8 @@ jobs:
       - uses: quarto-dev/quarto-actions/setup@v2
       - uses: quarto-dev/quarto-actions/render@v2
       - uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
