@@ -73,6 +73,17 @@ a:hover {
   display: none;
 }
 
+#quarto-content:has(.home-page) {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+  row-gap: 0;
+}
+
+#quarto-content:has(.home-page) .quarto-title-block {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
 .page-columns .content,
 main.content {
   width: 100%;
