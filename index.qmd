@@ -59,7 +59,7 @@ I am a doctoral candidate at the University of Auckland, data scientist at Mayo 
     "icon": "clinical"
   },
   {
-    "date": "2025 – Present",
+    "date": "2025",
     "role": "Research Fellow / Clinical Observer",
     "place": "Mayo Clinic, Rochester",
     "icon": "data"
