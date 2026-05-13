@@ -15,7 +15,7 @@ Varghese C, Harrison EM, O'Grady G, Topol EJ.
 :::
 
 ::: {.paper}
-Varghese C, Habermann EB, Hanson K, Choudhary A, Salehinejad H, Thiels C.
+Varghese C, Habermann EB, Hanson K, Choudhary A, Salehinejad H, Thiels CA.
 [Tabular foundation models as a new portable standard in local surgical risk prediction](https://pubmed.ncbi.nlm.nih.gov/41666517/).
 *Surgery*.
 :::
@@ -55,7 +55,7 @@ Dawes AJ, Lin AY, Varghese C, Russel MM, Lin AY.
 :::
 
 ::: {.paper}
-Wells C, Varghese C, Boyle L, McGuinness MJ, Keane C, O'Grady G, Gurney J, Koea J, Harmston C, Bissett IP.
+Wells CI, Varghese C, Boyle L, McGuinness MJ, Keane C, O'Grady G, Gurney J, Koea J, Harmston C, Bissett IP.
 [Failure to Rescue" following colorectal cancer resection](https://pubmed.ncbi.nlm.nih.gov/35920564/).
 *Annals of Surgery*.
 :::
@@ -79,7 +79,7 @@ Varghese C, Bhat S, Wang TH, O'Grady G, Pandanaboyana S.
 
 ::: {.paper-list}
 ::: {.paper}
-Varghese C, Schamberg G, Calder S, Waite S, Carson D, Foong D, Wang W, Ho V, Woodhead J, Daker C, Xu W, Du P, Abell T, Parkman HP, Tack J, Andrews CA, O'Grady G, Gharibans G.
+Varghese C, Schamberg G, Calder S, Waite S, Carson D, Foong D, Wang W, Ho V, Woodhead J, Daker C, Xu W, Du P, Abell T, Parkman HP, Tack J, Andrews CA, O'Grady G, Gharibans AA.
 [Normative values for body surface gastric mapping evaluations of gastric motility using Gastric Alimetry](https://pubmed.ncbi.nlm.nih.gov/36534985/).
 *American Journal of Gastroenterology*.
 :::
