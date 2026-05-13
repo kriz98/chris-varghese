@@ -83,4 +83,7 @@ I am a doctoral candidate at the University of Auckland, data scientist at Mayo 
   <a href="https://www.researchgate.net/profile/Chris-Varghese-3?ev=hdr_xprf" target="_blank" rel="noopener" aria-label="ResearchGate">
     <img src="assets/researchgate.svg" class="footer-icon" alt="">
   </a>
+  <a href="https://github.com/kriz98" target="_blank" rel="noopener" aria-label="GitHub">
+    <img src="assets/github-profile.svg" class="footer-icon" alt="">
+  </a>
 </div>
