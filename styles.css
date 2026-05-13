@@ -79,6 +79,10 @@ a:hover {
   row-gap: 0;
 }
 
+#quarto-content:has(.home-page) > main.content {
+  padding-top: 0 !important;
+}
+
 #quarto-content:has(.home-page) .quarto-title-block {
   margin: 0 !important;
   padding: 0 !important;
