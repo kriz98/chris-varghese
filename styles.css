@@ -12,8 +12,8 @@ body {
   background: #fff;
   color: var(--cv-text);
   font-family: "Inter", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, Helvetica, sans-serif;
-  font-size: 18px;
-  line-height: 1.62;
+  font-size: 17px;
+  line-height: 1.58;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
@@ -36,7 +36,7 @@ a:hover {
 }
 
 .navbar {
-  min-height: 86px;
+  min-height: 66px;
   background: #fff !important;
   border-bottom: 1px solid var(--cv-rule);
   box-shadow: none;
@@ -46,7 +46,7 @@ a:hover {
 
 .navbar-brand {
   color: var(--cv-blue-dark) !important;
-  font-size: 2.45rem;
+  font-size: 1.95rem;
   font-weight: 500;
   letter-spacing: 0;
   line-height: 1;
@@ -54,14 +54,19 @@ a:hover {
 
 .navbar-nav .nav-link {
   color: var(--cv-blue-dark) !important;
-  font-size: 1.45rem;
+  font-size: 1.08rem;
   font-weight: 500;
-  padding-right: 1.05rem !important;
-  padding-left: 1.05rem !important;
+  padding-right: 0.9rem !important;
+  padding-left: 0.9rem !important;
 }
 
 .navbar-nav .nav-link:hover {
   color: var(--cv-blue-dark) !important;
+}
+
+#quarto-search svg {
+  width: 1.35rem;
+  height: 1.35rem;
 }
 
 .quarto-title-block {
@@ -83,9 +88,9 @@ main.content {
 }
 
 .hero-bleed {
-  width: 100%;
-  max-width: none;
-  margin: 0 0 46px;
+  width: 100vw;
+  max-width: 100vw;
+  margin: 0 calc(50% - 50vw) 46px;
   padding: 0;
 }
 
@@ -96,7 +101,7 @@ main.content {
 .front-figure {
   display: block !important;
   width: 100% !important;
-  max-width: none !important;
+  max-width: 100vw !important;
   height: auto;
   object-fit: contain;
   object-position: center center;
@@ -341,7 +346,7 @@ footer.footer {
   }
 
   .navbar-brand {
-    font-size: 1.5rem;
+    font-size: 1.35rem;
   }
 
   .navbar {
@@ -351,7 +356,7 @@ footer.footer {
   }
 
   .navbar-nav .nav-link {
-    font-size: 1rem;
+    font-size: 0.95rem;
     padding-left: 0 !important;
   }
 
@@ -363,13 +368,22 @@ footer.footer {
   .timeline {
     grid-template-columns: 1fr;
     gap: 18px;
-    margin-bottom: 2.4rem;
-    padding-left: 24px;
+    width: min(calc(100% - 36px), 360px);
+    max-width: 360px;
+    margin: 1.9rem auto 2.4rem;
+    padding-left: 44px;
+    padding-right: 16px;
     padding-bottom: 0;
+    overflow-x: visible;
+  }
+
+  .home-page .timeline {
+    width: min(calc(100% - 36px), 360px);
+    max-width: 360px;
   }
 
   .timeline::before {
-    left: 8px;
+    left: 22px;
     right: auto;
     top: 8px;
     bottom: 8px;
@@ -387,7 +401,7 @@ footer.footer {
   }
 
   .timeline-item::after {
-    left: -22px;
+    left: -30px;
     bottom: auto;
     top: 7px;
   }
