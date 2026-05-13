@@ -31,7 +31,7 @@ I am a doctoral candidate at the University of Auckland, data scientist at Mayo 
   {
     "date": "2022",
     "role": "Elective",
-    "place": "Transplant & Colorectal - Auckland City Hospital",
+    "place": "HPB & Colorectal - Auckland City Hospital",
     "icon": "clinical"
   },
   {
