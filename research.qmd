@@ -48,7 +48,7 @@ McLean KA, Knight SR, Diehl TM, Varghese C, Ng N, Potter MA, Zafar SN, Bouamrane
 
 ::: {.paper}
 Dawes AJ, Lin AY, Varghese C, Russel MM, Lin AY.
-["Mobile health technology for remote home monitoring after surgery: a meta-analysis](https://pubmed.ncbi.nlm.nih.gov/34661649/).
+[Mobile health technology for remote home monitoring after surgery: a meta-analysis](https://pubmed.ncbi.nlm.nih.gov/34661649/).
 *BJS*.
 [![](assets/paper.svg){.pub-icon fig-alt="Paper link"}](https://academic.oup.com/bjs/article-pdf/108/11/1304/50744518/znab323.pdf)
 
@@ -56,8 +56,21 @@ Dawes AJ, Lin AY, Varghese C, Russel MM, Lin AY.
 
 ::: {.paper}
 Wells C, Varghese C, Boyle L, McGuinness MJ, Keane C, O'Grady G, Gurney J, Koea J, Harmston C, Bissett IP.
-["Failure to Rescue" following colorectal cancer resection](https://scholar.google.com/scholar?q=Failure+to+Rescue+following+Colorectal+Cancer+Resection+Variation+and+Improvements+in+a+National+Study).
+[Failure to Rescue" following colorectal cancer resection](https://pubmed.ncbi.nlm.nih.gov/35920564/).
 *Annals of Surgery*.
+:::
+
+::: {.paper}
+Varghese C, Wells C, O'Grady G, Christensen P, Bissett I, Keane C, on behalf of the Longitudinal LARS Group.
+[The Longitudinal Course of Low-anterior Resection Syndrome: An individual Patient Meta-analysis](https://pubmed.ncbi.nlm.nih.gov/35185131/).
+*Annals of Surgery*.
+:::
+
+::: {.paper}
+Varghese C, Bhat S, Wang TH, O'Grady G, Pandanaboyana S.
+[Impact of gastric resection and enteric anastomotic configuration on delayed gastric emptying after pancreaticoduodenectomy: a network meta-analysis of randomized trials](https://pubmed.ncbi.nlm.nih.gov/33989392/).
+*BJS Open*.
+[![](assets/paper.svg){.pub-icon fig-alt="Paper link"}](https://academic.oup.com/bjsopen/article-pdf/5/3/zrab035/49053941/zrab035.pdf)
 :::
 
 :::
@@ -90,7 +103,7 @@ Gharibans AA, Calder S, Varghese C, Waite S, Schamberg G, Daker C, Du P, Alighal
 ::: {.paper-list}
 ::: {.paper}
 TASMAN Collaborative.
-[Predicting opioid consumption after surgical discharge](https://pubmed.ncbi.nlm.nih.gov/38721718/).
+[Patterns of opioid use after surgical discharge: a multicentre, prospective cohort study in 25 countries](https://pubmed.ncbi.nlm.nih.gov/38721718/).
 *Anaesthesia*.
 [![](assets/paper.svg){.pub-icon fig-alt="Paper link"}](https://associationofanaesthetists-publications.onlinelibrary.wiley.com/doi/10.1111/anae.16297)
 :::
