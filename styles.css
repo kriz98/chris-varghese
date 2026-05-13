@@ -8,6 +8,12 @@
   --cv-max: 1180px;
 }
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
 body {
   background: #fff;
   color: var(--cv-text);
@@ -16,12 +22,6 @@ body {
   line-height: 1.58;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
-}
-
-html,
-body {
-  overflow-x: hidden;
-  overflow-x: clip;
 }
 
 a {
@@ -75,17 +75,22 @@ a:hover {
 
 .page-columns .content,
 main.content {
+  width: 100%;
   max-width: var(--cv-max);
   margin: 0 auto;
   padding: 0 26px 72px;
 }
 
-.home-page main.content.column-page,
+main.content:has(> .home-page),
 main.content.column-page:has(.hero-bleed) {
   grid-column: 1 / -1;
   max-width: none;
   width: 100%;
   padding: 0 0 72px;
+}
+
+.home-page {
+  width: 100%;
 }
 
 .hero-bleed {
@@ -102,7 +107,7 @@ main.content.column-page:has(.hero-bleed) {
 .front-figure {
   display: block !important;
   width: 100% !important;
-  max-width: 100vw !important;
+  max-width: 100% !important;
   height: auto;
   object-fit: contain;
   object-position: center center;
@@ -110,20 +115,12 @@ main.content.column-page:has(.hero-bleed) {
   border-bottom: 1px solid var(--cv-rule);
 }
 
-.home-page .intro,
-.home-page .timeline,
-.home-page .footer-links,
-main.content:has(.hero-bleed) .intro,
-main.content:has(.hero-bleed) .timeline,
-main.content:has(.hero-bleed) .footer-links {
-  width: calc(100% - 52px);
+.home-content {
+  width: 100%;
   max-width: var(--cv-max);
-}
-
-.home-page .intro,
-main.content:has(.hero-bleed) .intro {
   margin-right: auto;
   margin-left: auto;
+  padding: 0 26px;
 }
 
 .home-grid {
@@ -345,6 +342,14 @@ footer.footer {
     padding: 0 18px 48px;
   }
 
+  main.content:has(> .home-page) {
+    padding: 0 0 48px;
+  }
+
+  .home-content {
+    padding: 0 18px;
+  }
+
   .home-grid {
     grid-template-columns: 1fr;
     gap: 28px;
@@ -382,8 +387,7 @@ footer.footer {
     overflow-x: visible;
   }
 
-  .home-page .timeline,
-  main.content:has(.hero-bleed) .timeline {
+  .home-content .timeline {
     width: min(calc(100% - 36px), 360px);
     max-width: 360px;
   }
