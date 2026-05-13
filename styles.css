@@ -75,23 +75,45 @@ main.content {
   padding: 0 26px 72px;
 }
 
-.hero-bleed,
-main.content > p:has(.front-figure) {
-  width: 100vw;
-  max-width: 100vw;
-  margin: 0 calc(50% - 50vw) 46px;
+.home-page main.content.column-page {
+  grid-column: 1 / -1;
+  max-width: none;
+  width: 100%;
+  padding: 0 0 72px;
+}
+
+.hero-bleed {
+  width: 100%;
+  max-width: none;
+  margin: 0 0 46px;
   padding: 0;
+}
+
+.hero-bleed p {
+  margin: 0;
 }
 
 .front-figure {
   display: block !important;
-  width: 100vw !important;
+  width: 100% !important;
   max-width: none !important;
   height: auto;
   object-fit: contain;
   object-position: center center;
   margin: 0;
   border-bottom: 1px solid var(--cv-rule);
+}
+
+.home-page .intro,
+.home-page .timeline,
+.home-page .footer-links {
+  width: calc(100% - 52px);
+  max-width: var(--cv-max);
+}
+
+.home-page .intro {
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .home-grid {
