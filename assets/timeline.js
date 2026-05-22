@@ -60,20 +60,9 @@
     timeline.appendChild(node);
   }
 
-  const scrollTimelineToEnd = () => {
-    const isHorizontalTimeline = window.matchMedia("(min-width: 781px)").matches;
-    const hasHorizontalOverflow = timeline.scrollWidth > timeline.clientWidth;
-
-    if (isHorizontalTimeline && hasHorizontalOverflow) {
+  if (window.matchMedia("(min-width: 781px)").matches) {
+    requestAnimationFrame(() => {
       timeline.scrollLeft = timeline.scrollWidth - timeline.clientWidth;
-    }
-  };
-
-  window.addEventListener(
-    "load",
-    () => {
-      requestAnimationFrame(scrollTimelineToEnd);
-    },
-    { once: true },
-  );
+    });
+  }
 })();
