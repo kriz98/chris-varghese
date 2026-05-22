@@ -59,12 +59,21 @@
     node.append(icon, date, role, place);
     timeline.appendChild(node);
   }
+
+  const scrollTimelineToEnd = () => {
+    const isHorizontalTimeline = window.matchMedia("(min-width: 781px)").matches;
+    const hasHorizontalOverflow = timeline.scrollWidth > timeline.clientWidth;
+
+    if (isHorizontalTimeline && hasHorizontalOverflow) {
+      timeline.scrollLeft = timeline.scrollWidth - timeline.clientWidth;
+    }
+  };
+
+  window.addEventListener(
+    "load",
+    () => {
+      requestAnimationFrame(scrollTimelineToEnd);
+    },
+    { once: true },
+  );
 })();
-
-const timeline = document.getElementById("timeline");
-
-if (timeline) {
-  requestAnimationFrame(() => {
-    timeline.scrollLeft = timeline.scrollWidth;
-  });
-}
