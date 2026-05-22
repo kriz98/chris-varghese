@@ -60,3 +60,11 @@
     timeline.appendChild(node);
   }
 })();
+
+const timeline = document.getElementById("timeline");
+
+if (timeline) {
+  requestAnimationFrame(() => {
+    timeline.scrollLeft = timeline.scrollWidth;
+  });
+}
