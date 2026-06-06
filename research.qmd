@@ -15,7 +15,7 @@ Varghese C, Harrison EM, O'Grady G, Topol EJ.
 :::
 
 ::: {.paper}
-Varghese C, Habermann EB, Hanson K, Choudhary A, Salehinejad H, Thiels CA.
+Varghese C, Ng JC, Sassun R, Thiels CA, Salehinejad H, Perry WRG, Mathis KL, Larson DW.
 [Predicting Treatment Response After Total Neoadjuvant Therapy for Locally Advanced Rectal Cancer](https://journals.lww.com/annalsofsurgery/abstract/9900/predicting_treatment_response_after_total.1634.aspx).
 *Annals of Surgery*.
 :::
