@@ -109,3 +109,14 @@ EuroSurg and STARSurg Collaborative.
 *Diseases of the Colon and Rectum*.
 :::
 :::
+
+## Data Science
+
+::: {.paper-list}
+::: {.paper}
+Varghese C.
+[ggadjustedforest](https://cran.r-project.org/web/packages/ggadjustedforest/ggadjustedforest.pdf).
+*CRAN R Package*.
+[![](assets/r-logo.svg){.pub-icon fig-alt="CRAN package page"}](https://cran.r-project.org/web/packages/ggadjustedforest/index.html)
+:::
+:::
