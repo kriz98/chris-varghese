@@ -21,9 +21,9 @@ Varghese C, Ng JC, Sassun R, Thiels CA, Salehinejad H, Perry WRG, Mathis KL, Lar
 :::
 
 ::: {.paper}
-Varghese C, Choudhary A, Starlinger P, Kendrick M, Smoot R, Warner SG, Truty M, Habermann EB, Salehinejad H, Thiels CA.
-[Dynamic prediction of early discharge after major pancreatic surgery](https://pubmed.ncbi.nlm.nih.gov/41667369/).
-*Surgery*.
+Varghese C, Choudhary A, Larson EL, Lee FG, Baier M, Glabe CL, Just JN, Friedrich S, Merchea A, Brady J, Selig JL, Thiels CA, Salehinejad H, Perry WRG. 
+[Computer-Vision Approach to Triaging Patient-Submitted Photos of Intestinal Ostomies](https://journals.lww.com/dcrjournal/abstract/10.1097/dcr.0000000000004366~computer-vision-approach-to-triaging-patient-submitted).
+*Diseases of the Colon and Rectum*.
 :::
 
 ::: {.paper}
@@ -51,7 +51,6 @@ Dawes AJ, Lin AY, Varghese C, Russel MM, Lin AY.
 [Mobile health technology for remote home monitoring after surgery: a meta-analysis](https://pubmed.ncbi.nlm.nih.gov/34661649/).
 *BJS*.
 [![](assets/paper.svg){.pub-icon fig-alt="Paper link"}](https://academic.oup.com/bjs/article-pdf/108/11/1304/50744518/znab323.pdf)
-
 :::
 
 ::: {.paper}
@@ -96,6 +95,14 @@ Gharibans AA, Calder S, Varghese C, Waite S, Schamberg G, Daker C, Du P, Alighal
 *Science Translational Medicine*.
 [![](assets/paper.svg){.pub-icon fig-alt="Paper link"}](https://pmc.ncbi.nlm.nih.gov/articles/PMC10042458/)
 :::
+
+::: {.paper}
+Varghese C, Harvey X, Gharibans AA, Du P, Collinson R, Bissett IP, Stinear C, O’Grady G, Paskaranandavadivel N.
+[Clinical integration of trans-sacral magnetic stimulation evoked sphincter potentials and high-density electromyography in pelvic floor assessment](https://pubmed.ncbi.nlm.nih.gov/37800177/).
+*Colorectal Disease*.
+[![](assets/paper.svg){.pub-icon fig-alt="Paper link"}](https://onlinelibrary.wiley.com/doi/epdf/10.1111/codi.16753)
+:::
+
 :::
 
 ## Student and Trainee-Led Collaboratives
@@ -113,7 +120,6 @@ STRATA Collaborative.
 [Variation in the practice of cholecystectomy for benign biliary disease in Aotearoa New Zealand](https://pubmed.ncbi.nlm.nih.gov/37198069/).
 *HPB*.
 [![](assets/paper.svg){.pub-icon fig-alt="Paper link"}](https://www.hpbonline.org/action/showPdf?pii=S1365-182X%2823%2900128-4)
-
 :::
 
 ::: {.paper}
@@ -121,6 +127,7 @@ EuroSurg and STARSurg Collaborative.
 [Global Use and Outcomes of Endoscopic Stenting in Acute Malignant Left-Sided Colonic Obstruction: A Secondary Analysis of APOLLO, An International, Prospective Cohort Study](https://pubmed.ncbi.nlm.nih.gov/41070782/).
 *Diseases of the Colon and Rectum*.
 :::
+
 :::
 
 ## Data Science
@@ -131,5 +138,12 @@ Varghese C.
 [ggadjustedforest](https://cran.r-project.org/web/packages/ggadjustedforest/ggadjustedforest.pdf).
 *CRAN R Package*.
 [![](assets/r-logo.svg){.pub-icon fig-alt="CRAN package page"}](https://cran.r-project.org/web/packages/ggadjustedforest/index.html)
+:::
+
+::: {.paper}
+Varghese C, Gharibans AA.
+[circlecorR](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://cloud.r-project.org/web/packages/circlecorR/circlecorR.pdf).
+*CRAN R Package*.
+[![](assets/r-logo.svg){.pub-icon fig-alt="CRAN package page"}](https://cloud.r-project.org/web/packages/circlecorR/index.html)
 :::
 :::

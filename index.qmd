@@ -9,7 +9,7 @@ title: "Chris Varghese"
 
 ::: {.home-content}
 ::: {.intro}
-I am a doctoral candidate at the University of Auckland, data scientist at Mayo Clinic, and aspiring GI surgeon. My research interests include [surgical recovery](http://srslab.auckland.ac.nz/), [translational AI](https://surgicalai2.com/), and [GI physiology](https://www.alimetry.com/clinical-evidence-row). 
+I am a doctoral candidate at the University of Auckland, data scientist at Mayo Clinic, and aspiring GI surgeon. My research interests include [surgical recovery](http://srslab.auckland.ac.nz/), [translational AI](https://surgicalai2.com/), and [GI physiology](https://www.alimetry.com/clinical-evidence). 
 :::
 
 
